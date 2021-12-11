@@ -1,3 +1,5 @@
+
+https://zen.yandex.ru/media/id/5f18552aa12b621c47b523fa/peremennaia-prostymi-slovami-5f1d50a57461176a85aa8ffc
 ## Lesson 2
 
 Курс по программированию на языке Python 
